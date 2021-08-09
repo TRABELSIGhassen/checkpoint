@@ -1,0 +1,24 @@
+ALGORITHM AL
+VAR
+    i,j,k:INTEGER:=0;
+    x,y,z:INTEGER:=0;
+    Strg:CHAR;
+BEGIN
+ WHILE (i=0;i=<length.ch) DO
+        Read(Strg)
+        
+     IF (i=length.ch) THEN
+      x=x+1;
+     END_IF
+
+
+     IF Strg[i]=" ") THEN
+       y=y+1;
+      END_IF 
+
+ IF (if Strg[i]="A"or "E" or "I" or "O" or "U" or "Y") THEN
+       z=z+1;                    
+     END_IF   
+
+   END_WHILE
+END.
