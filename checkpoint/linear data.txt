@@ -1,0 +1,30 @@
+ALGORITHM LINEAR_DATA
+VAR
+   S1,S2;S3,S4: ARRAY_OF INTEGER;
+   i,j,k,l,sum1,sum2:INTEGER;
+
+BEGIN
+
+ WHILE (i=0;i=<length.S1;i++) DO
+
+ WHILE (j=0;j=<length.S2;j++) DO
+
+
+IF (S1[i]==S2[j]) 
+
+  S3=S1[i];
+
+ sum1=((S3[k]+S3[k+1])*2)
+   else  
+
+   set4=(S1[i]+S2[j])
+
+ sum2=((S4[l]+S3[l+1]))
+
+   END_IF
+
+END_WHILE
+
+END_WHILE
+
+END
